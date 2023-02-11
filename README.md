@@ -1,6 +1,6 @@
 # SCSSRESPONSIVE
 
-<p> Bu Web sitesi SCSS HTLM kullanılarak kazırlandı</p>
+<p> Bu Web sitesi SCSS HTML kullanılarak kazırlandı</p>
 
 <h2>TARIH: 11/02/20223</h2>
 
